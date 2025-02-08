@@ -58,7 +58,7 @@ Install
 =======
 
 For installation instructions and requirements, see `INSTALL.rst <INSTALL.rst>`_  or the
-`install <https://matplotlib.org/users/installing.html>`_ documentation.
+`install <https://matplotlib.org/users/installing.html>`_ documentation
 
 Test
 ====
